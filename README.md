@@ -1,5 +1,8 @@
-# api-exam
-CRUD api for exam purposes
+## App Description
+
+A Simple CRUD api for exam purposes
+
+# Run the App
 
 1.Clone the repo
 2. import sql file to database (yondu_exam.sql on the directory)
@@ -8,7 +11,7 @@ CRUD api for exam purposes
 5. Run api "npm start"
 6. Use "Postman" or "Talend API Tester - Free Edition"(chrome extension) to test
 
-
+# api urls
 http://localhost:3002/users/create
 http://localhost:3002/users/view
 http://localhost:3002/users/update
